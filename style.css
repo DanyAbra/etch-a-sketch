@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  height: calc(100vh - 20px);
+  padding-top: 20px;
+}
+
+#grid {
+  margin: auto;
+  max-width: 608px;
+  height: calc(100vh - 70px);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.card {
+  width: 30px;
+  height: 30px;
+  background-color: plum;
+}
+
+.card:hover {
+  background-color: skyblue;
+}
