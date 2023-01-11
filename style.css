@@ -20,9 +20,7 @@
 
 .card {
   user-select: none;
-  /* DELETE LATER*/
-  width: 16px;
-  height: 16px;
+
   background-color: plum;
 }
 
