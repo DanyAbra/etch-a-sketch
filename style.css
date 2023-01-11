@@ -24,10 +24,6 @@
   background-color: plum;
 }
 
-.card:hover {
-  background-color: skyblue;
-}
-
 .btn {
   font-size: 24px;
   background-color: white;
